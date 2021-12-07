@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@1,300&family=Azeret+Mono:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Orbitron:wght@900&family=Oswald:wght@700&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+html{
+	cursor: context-menu;
+    background: url(background.gif) no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 95%;
+}
+
+#nav-header{
+	background-color: #0A1931;
+}
+
+#card{
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10%;
+	margin-left: 8%;
+}
+
+.navbar-brand{
+	margin-left: 28%;
+	color:darkturquoise;
+	font-family: 'Alumni Sans', sans-serif;
+	font-family: 'Azeret Mono', monospace;
+}
+
+
+#register_no{
+	color: black;
+	font-family: 'Alumni Sans', sans-serif;
+	font-family: 'Azeret Mono', monospace;
+}
+
+#username{
+	color: black;
+	font-family: 'Alumni Sans', sans-serif;
+	font-family: 'Azeret Mono', monospace;
+}
+
+#register_title{
+	color: black;
+	font-family: 'Alumni Sans', sans-serif;
+	font-family: 'Azeret Mono', monospace;
+}

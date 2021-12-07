@@ -1,0 +1,25 @@
+html{
+    background : url(https://wallpaperaccess.com/full/1794050.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    position: absolute;
+}
+
+.card{
+    height: 20rem;
+    width: 20rem;
+    margin-left: 18%;
+}
+
+.card-body{
+    background-color: white;
+}
+
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;    
+}
