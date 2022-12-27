@@ -1,7 +1,7 @@
 A Simple Responsive Calculator using **Bootstrap framework**.
 
 ### Desktop View
-![Desktop view](Calculator/desktop.png)
+![Desktop view](desktop.png)
 
 ### Mobile View 
-![Mobile view](Calculator/mobile.png)
+![Mobile view](mobile.png)
